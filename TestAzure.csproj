@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="NewRelic.Agent" Version="8.30.0" />
+  </ItemGroup>
+
 </Project>
